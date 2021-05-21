@@ -1,4 +1,4 @@
-# Notes	
+# practicalVim
 
 
 # tip 1: Meet the Dot Command
@@ -12,4 +12,3 @@
 - 'last change' can be many things or be many levels from character to whole file. 
 
 
-# practicalVim
